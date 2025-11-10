@@ -5,6 +5,7 @@
 Clause is an AI-powered legal enforcement platform. Upload a lease, medical bill, or contract! Our system detects violations, calculates damages, and generates demand letters with statute citations. A Chrome extension flags illegal clauses in real-time on Airbnb listings. Everything is timestamped on Solana's blockchain for tamper-proof evidence in court. Ask questions via voice or text (in any language), and get instant answers grounded in Massachusetts law.
 
 Devpost: [https://devpost.com/software/clause-bu9l74?ref_content=user-portfolio&ref_feature=in_progress](https://devpost.com/software/clause-bu9l74)
+Demo: [https://youtu.be/FwFLnbPbcfw?si=vFtDSl1wAQ-vxfBA](https://youtu.be/FwFLnbPbcfw?si=vFtDSl1wAQ-vxfBA)
 Presentation: [https://docs.google.com/presentation/d/1Dk0eTkfH2HfcC2rGY1lnY7-viMub2LUqeJZXiIdstzQ/edit?usp=sharing](https://docs.google.com/presentation/d/1Dk0eTkfH2HfcC2rGY1lnY7-viMub2LUqeJZXiIdstzQ/edit?usp=sharing)
 
 ## Quick Start
